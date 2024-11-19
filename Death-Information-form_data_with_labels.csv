@@ -1,0 +1,27 @@
+"""Record ID""","""Site """,Para,Block,Structure,"""Q.1. Did any death of above 5 years occur in your household from Jan 2023 to Dec 2023? ""","""Q.2. What was the gender of the deceased?  ""","""Q.3. What was the name of the deceased?""","""Q.4. What was the age of the deceased ?Age in Years""","""Q.5. When did the deceased die ? """,Complete?
+1,,,,,Yes,Male,Muzammil,26,2024-11-07,Incomplete
+2,,,,,Yes,Male,Muzammil,26,2023-10-01,Incomplete
+3,Rg,Ia,54,67,Yes,Male,Test,6,2023-09-05,Incomplete
+4,Rg,Ds,05,34,Yes,Female,Test,6,2023-04-11,Incomplete
+5,Rg,Dp,01,23,Yes,Male,Altaf,9,2023-04-18,Complete
+6,Rg,Dp,01,3,Yes,Male,Shehbaz,09,2023-05-25,Incomplete
+7,Rg,Dp,01,36s1,Yes,Male,Shehbaz,09,2023-05-25,Complete
+8,Rg,Dp,01,98,Yes,Male,"""Jan muhammad""",70,2023-10-03,Complete
+9,Rg,Dp,01,100s1,Yes,Female,Kulsoom,80,2023-09-17,Incomplete
+10,Rg,Dp,01,100s1,Yes,Female,Kulsoom,80,2023-09-17,Complete
+11,Rg,Dp,01,178,Yes,Male,"""Abu dablo""",74,2023-10-23,Complete
+12,Rg,Dp,01,185,Yes,Female,Jumri,80,2023-10-15,Complete
+13,Rg,Dp,02,48,Yes,Male,Ali,65,2023-03-03,Complete
+14,Rg,Dp,01,83,Yes,Male,"""Ali hassan""",50,2023-02-09,Complete
+15,Rg,Dp,01,118,Yes,Male,"""Ali muhammad""",70,2023-06-15,Complete
+16,Rg,Pp,03,179,Yes,Male,"""Ali muhammad""",55,2023-10-02,Complete
+17,Rg,Pp,04,22,Yes,Female,Ayesha,80,2023-10-15,Complete
+18,Rg,Pp,04,88,Yes,Female,Rehmat,49,2023-01-15,Complete
+19,Rg,Pp,04,60,Yes,Male,"""Abdul rasheed""",38,2023-03-01,Complete
+20,Rg,Pp,03,162s5a,Yes,Female,Ayesha,13,2023-03-05,Complete
+21,Rg,Pp,04,111,Yes,Female,Maryam,55,2023-03-15,Complete
+22,Rg,Qp,05,37,Yes,Male,Hussain,61,2023-02-08,Complete
+23,Rg,Qp,05,18,Yes,Male,Ishaq,95,2023-06-15,Complete
+24,Rg,Qp,05,31,Yes,Female,Amna,65,2023-05-25,Complete
+25,Rg,Qp,05,118,Yes,Female,Khadija,70,2023-01-15,Complete
+,,,,,,,,,,
